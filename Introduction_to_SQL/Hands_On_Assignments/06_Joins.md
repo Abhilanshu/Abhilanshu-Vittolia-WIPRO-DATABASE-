@@ -1,6 +1,3 @@
-# SQL Joins Lab — All 13 Questions
-
----
 
 # Q1. Natural Join — Addresses of All Departments
 
